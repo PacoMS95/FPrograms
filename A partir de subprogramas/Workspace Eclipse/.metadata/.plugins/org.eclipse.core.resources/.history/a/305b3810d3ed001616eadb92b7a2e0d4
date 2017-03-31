@@ -1,0 +1,12 @@
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class ordenadaYAbscisaTest {
+
+	@Test
+	public void test() {
+		assertEquals(null, 2, 2, 0.1);
+	}
+
+}
