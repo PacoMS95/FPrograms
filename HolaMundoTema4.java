@@ -8,9 +8,11 @@ public class HolaMundoTema4
 
 {
 public static void main (String[] args)
-{
-int edad = 19;
-System.out.println("Hola mundo");;
-}
-
+	{
+	int edad = 22;
+	System.out.println("Hola mundo");
+	System.out.println("Me llamo Francisco Mendoza Sánchez ");
+	System.out.println("tengo " +edad+ " años");
+	System.out.println("y este es mi primer programa en Java");
+	}
 }
